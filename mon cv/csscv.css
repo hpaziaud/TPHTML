@@ -1,0 +1,21 @@
+.bluebackground{
+background-color:aqua
+}
+.wht{
+    color:rgb(240, 248, 255)
+}
+.td[rowspan] {
+    vertical-align: top;
+    text-align: left;
+    }
+ .rightf{
+    position: relative;
+    left: 110px;
+    top:-952px;
+    width: 25%;
+    
+
+ }
+ .imagesize{
+  
+ }
